@@ -24,6 +24,7 @@ El objetivo principal de este proyecto es dar mayor visibilidad al deporte femen
 - Canva
 - Figma
 - Photoshop
+- La liga Iberdrola
 - Fifa.es
 - Futboleras.es
 - Laliga.com
