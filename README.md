@@ -1,4 +1,4 @@
-# Women vs Men´s : a football analysis comparative 
+# Women vs Men : a football analysis comparative 
 
 En este proyecto, nos proponemos realizar una comparativa detallada de los datos más relevantes de las primeras 20 jornadas de la liga Finetwork de fútbol femenino y La Liga Santander de fútbol masculino.
 
